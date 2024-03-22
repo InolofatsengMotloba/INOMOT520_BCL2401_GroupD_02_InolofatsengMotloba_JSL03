@@ -8,16 +8,15 @@ In this project, there are two JavaScript code examples, each demonstrating a di
 
 The two functions describe how a steak needs to be cooked.
 
-# Presentation Talking Points
 
-Example 1:
+## Example 1:
 
 ## Declarative Approach 
 The First function uses a declarative approach as it does not specify how each step should be accomplished. It helps developers write cleaner, more maintainable code but has less control over performance optimizations.
 
 
 
-Example 2:
+## Example 2:
 
 ## Imperative Approach 
 The Second example uses an imperative approach because it defines each step of the cooking process and outlines how each step should be executed. It has direct control over program flow and straightforward implementation of algorithms but can lead to a complex and hard-to-maintain code.
